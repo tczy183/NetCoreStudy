@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NetCoreStudy": {
+      "commandName": "Project",
+      "commandLineArgs": "Person=1"
+    }
+  }
+}
