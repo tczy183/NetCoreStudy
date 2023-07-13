@@ -822,11 +822,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ANet\\Study\\Netcore\\IOC\\IOC.csproj",
+      "projectUniqueName": "D:\\ANet\\Study\\NetCoreBase\\IOC\\IOC.csproj",
       "projectName": "IOC",
-      "projectPath": "D:\\ANet\\Study\\Netcore\\IOC\\IOC.csproj",
+      "projectPath": "D:\\ANet\\Study\\NetCoreBase\\IOC\\IOC.csproj",
       "packagesPath": "C:\\Users\\NBZY78001242\\.nuget\\packages\\",
-      "outputPath": "D:\\ANet\\Study\\Netcore\\IOC\\obj\\",
+      "outputPath": "D:\\ANet\\Study\\NetCoreBase\\IOC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

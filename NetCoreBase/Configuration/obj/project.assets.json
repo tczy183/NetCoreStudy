@@ -822,11 +822,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ANet\\Study\\Netcore\\Configuration\\Configuraion.csproj",
+      "projectUniqueName": "D:\\ANet\\Study\\NetCoreBase\\Configuration\\Configuraion.csproj",
       "projectName": "Configuraion",
-      "projectPath": "D:\\ANet\\Study\\Netcore\\Configuration\\Configuraion.csproj",
+      "projectPath": "D:\\ANet\\Study\\NetCoreBase\\Configuration\\Configuraion.csproj",
       "packagesPath": "C:\\Users\\NBZY78001242\\.nuget\\packages\\",
-      "outputPath": "D:\\ANet\\Study\\Netcore\\Configuration\\obj\\",
+      "outputPath": "D:\\ANet\\Study\\NetCoreBase\\Configuration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

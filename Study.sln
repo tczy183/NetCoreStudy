@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Netcore", "Netcore", "{5ACCD401-8CC4-4048-8AFB-61DBB2973B02}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NetCoreBase", "NetCoreBase", "{5ACCD401-8CC4-4048-8AFB-61DBB2973B02}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Configuraion", "NetCoreBase\Configuration\Configuraion.csproj", "{5793A52C-F21D-46E6-BE7A-259FE7DBD860}"
 EndProject

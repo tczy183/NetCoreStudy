@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1uAIqruRsvt1Y5ghVptLhAu4h5D5zm2CGO1uwf2aZmgfOasW1US/jSOolXz43jGnWFqrg75VKu+0LTo4bH2kUQ==",
+  "dgSpecHash": "uAnNroc6I7Bt3hZmPghHIrUsgVeOtWDdaipqzXCaYZH1gt9AMb/RS+YEE19k/z+lISDYFxzvoAtxWeTuhEXg0g==",
   "success": true,
-  "projectFilePath": "D:\\ANet\\Study\\Netcore\\Configuration\\Configuraion.csproj",
+  "projectFilePath": "D:\\ANet\\Study\\NetCoreBase\\Configuration\\Configuraion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NBZY78001242\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\NBZY78001242\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

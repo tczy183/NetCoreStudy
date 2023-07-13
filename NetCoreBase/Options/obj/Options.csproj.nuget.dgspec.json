@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ANet\\Study\\Netcore\\Options\\Options.csproj": {}
+    "D:\\ANet\\Study\\NetCoreBase\\Options\\Options.csproj": {}
   },
   "projects": {
-    "D:\\ANet\\Study\\Netcore\\Options\\Options.csproj": {
+    "D:\\ANet\\Study\\NetCoreBase\\Options\\Options.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ANet\\Study\\Netcore\\Options\\Options.csproj",
+        "projectUniqueName": "D:\\ANet\\Study\\NetCoreBase\\Options\\Options.csproj",
         "projectName": "Options",
-        "projectPath": "D:\\ANet\\Study\\Netcore\\Options\\Options.csproj",
+        "projectPath": "D:\\ANet\\Study\\NetCoreBase\\Options\\Options.csproj",
         "packagesPath": "C:\\Users\\NBZY78001242\\.nuget\\packages\\",
-        "outputPath": "D:\\ANet\\Study\\Netcore\\Options\\obj\\",
+        "outputPath": "D:\\ANet\\Study\\NetCoreBase\\Options\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
