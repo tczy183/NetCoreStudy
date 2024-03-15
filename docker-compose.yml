@@ -1,0 +1,36 @@
+﻿name: test
+
+services:
+  netstudy.test:
+    image: netstudy
+    build:
+      context: .
+      dockerfile: src/NetStudy/Dockerfile
+    ports:
+      - "8090:8090"
+    environment:
+      - ASPNETCORE_HTTP_PORTS=8090
+    networks:
+        - mynet1
+    
+  netstudy.prometheus:
+    image: prom/prometheus
+    container_name: netstudy.prometheus
+    volumes:
+      - ./src/NetStudy/config/prometheus.yml:/etc/prometheus/prometheus.yml
+    ports:
+      - 9090:9090
+    networks:
+      - mynet1
+  
+  netstudy.grafana:
+    image: grafana/grafana
+    container_name: netstudy.grafana
+    ports:
+      - 3000:3000
+    networks:
+      - mynet1
+
+networks:
+  mynet1:
+    driver: bridge
